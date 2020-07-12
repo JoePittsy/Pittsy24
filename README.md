@@ -1,5 +1,3 @@
-# Hi, I'm Joe Pitts 👋
-
 <img src="https://raw.githubusercontent.com/Pittsy24/Pittsy24/master/header.png" >
 
 ## About Me
